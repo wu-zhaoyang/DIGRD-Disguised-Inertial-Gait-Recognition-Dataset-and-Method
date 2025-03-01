@@ -1,0 +1,2 @@
+# DIGRD-Disguised-Inertial-Gait-Recognition-Dataset-and-Method
+In this paper, we introduce an advanced human identification dataset, DIGRD (Disguised Inertial Gait Recognition Dataset), which integrates gait recognition tasks with covariates such as clothing and footwear types. Specifically, we constructed DIGRD in an indoor environment using inertial sensors, encompassing 40 subjects and 61,346 gait events 
