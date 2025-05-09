@@ -1,5 +1,8 @@
 # DIGRD-Disguised-Inertial-Gait-Recognition-Dataset-and-Method
 Inertial gait recognition, renowned for its contactless operation and long-range identification capabilities, enables user-friendly and secure biometric authentication. However, the systematic evaluation of inertial gait recognition under clothing and footwear disguises, a critical factor in real-world security applications, has yet to be systematically addressed. This paper introduces DIGRD (Disguised Inertial Gait Recognition Dataset), the first benchmark dataset explicitly designed to study disguised inertial gait recognition. Constructed using inertial sensors in a controlled indoor environment, DIGRD includes 61,346 gait events from 40 subjects across 4 clothing-footwear combinations, systematically recorded under varying disguise conditions. Experimental results demonstrate that both clothing and footwear changes significantly degrade recognition performance, with footwear alterations exerting a stronger deceptive effect (accuracy reduced to 84.85% vs. 88.78% for clothing). Notably, compared to our previous visual (DisGait) and acoustic (AFPID-II) disguise datasets, DIGRD achieves superior robustness under deception, highlighting the inherent advantages of inertial sensor data in resisting common disguise attacks. This work establishes a foundational benchmark for studying inertial gait recognition under adversarial conditions and paves the way for developing more secure biometric systems.
-![image](https://github.com/user-attachments/assets/82e71111-b2fb-4332-ae3e-fc157b9cb6f3)![image](https://github.com/user-attachments/assets/5a603337-0304-4a9d-b5de-3c8c25aa8f20)
+
+![image](https://github.com/user-attachments/assets/3b234f72-1132-4f07-b8af-b50e5953186a)![image](https://github.com/user-attachments/assets/f10ea9cf-61b2-4fe3-94fe-e588b156b6bf)
+
+
 
 
